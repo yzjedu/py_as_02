@@ -27,8 +27,15 @@ Example: if the user enters 2 for the month and 2008 for the year, the program s
 # Program Inputs: Month (as a number in the range 1 through 12), Year
 # Program Outputs: Number of days in the given month
 ```
+
 ## Submission
 
-- Submit the Python file with the completed code.
-- Submit the flowchart as an image file.
-- Submit the Excel file with test cases.
+- Clone the project
+- Create the flow chart as an image and add it to the cloned project dirctory
+- Follow the instructions on the README.md file and the comment on code
+- Complete the code
+- Test the program
+  - If the test passes
+    - Push the project to the repository
+      - If this is hard
+      - Submit the assignment.py on moodle
