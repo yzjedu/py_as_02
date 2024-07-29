@@ -33,7 +33,7 @@ Example: if the user enters 2 for the month and 2008 for the year, the program s
 - Clone the project
 - Create the flow chart as an image and add it to the cloned project dirctory
 - Follow the instructions on the README.md file and the comment on code
-- Complete the code
+  - Complete the code
 - Test the program
   - If the test passes
     - Push the project to the repository
